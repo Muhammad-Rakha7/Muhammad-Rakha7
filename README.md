@@ -20,8 +20,7 @@ Still learning, still growing, still showing up.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Rakha7&show_icons=true&theme=tokyonight)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Rakha7&show_icons=true&theme=tokyonight&cache_seconds=1800)
 ## 🔥 Contribution Streak:
 [![GitHub Streak](https://streak-stats.demolab.com?user=Muhammad-Rakha7&theme=tokyonight)](https://git.io/streak-stats)
 
