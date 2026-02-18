@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Rakha! 👋
 
-🎓 SMK Student | Aspiring Data Scientist & AI Enthusiast
+🎓 High School Student | Aspiring Data Scientist & AI Enthusiast
 
 ## 🚀 About Me:
 Hi, I'm Muhammad Rakha.
