@@ -4,7 +4,7 @@
 
 ## 🚀 About Me:
 Hi, I'm Muhammad Rakha.
-A SMK student learning Data Science & AI by doing, failing, and retrying.
+A high school student learning Data Science & AI by doing, failing, and retrying.
 I enjoy exploring data, building models, and turning ideas into projects.
 Still learning, still growing, still showing up.
 
@@ -25,5 +25,6 @@ Still learning, still growing, still showing up.
 ## 🔥 Contribution Streak:
 [![GitHub Streak](https://streak-stats.demolab.com?user=Muhammad-Rakha7&theme=tokyonight)](https://git.io/streak-stats)
 
-## 🏆 Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Rakha7&layout=compact&theme=tokyonight)
+## 📫 Connect With Me
+- GitHub: [@Muhammad-Rakha7](https://github.com/Muhammad-Rakha7
+- Email:mrakha751@gmail.com
