@@ -1,20 +1,29 @@
 # Hi, I'm Muhammad Rakha! 👋
 
-🎓 High School Students | Aspiring Data Scientist & AI Enthusiast
+🎓 SMK Student | Aspiring Data Scientist & AI Enthusiast
 
-## 🚀 About Me
-- 🌱 Currently learning **Data Science & Artificial Intelligence**
-- 💡 Passionate about turning data into meaningful insights
-- 📚 Always eager to learn new technologies
-- 🇮🇩 Based in Indonesia
+## 🚀 About Me:
+Hi, I'm Muhammad Rakha.
+A SMK student learning Data Science & AI by doing, failing, and retrying.
+I enjoy exploring data, building models, and turning ideas into projects.
+Still learning, still growing, still showing up.
 
-## 🛠️ Technologies & Tools
+## 🌐 Socials:
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Rakha7)
+
+## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-![Muhammad-Rakha7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Rakha7&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Rakha7&show_icons=true&theme=tokyonight)
 
-## 📫 Connect With Me
-- GitHub: [@Muhammad-Rakha7](https://github.com/Muhammad-Rakha7)
-- Email:mrakha751@gmail.com
+## 🔥 Contribution Streak:
+[![GitHub Streak](https://streak-stats.demolab.com?user=Muhammad-Rakha7&theme=tokyonight)](https://git.io/streak-stats)
+
+## 🏆 Top Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Rakha7&layout=compact&theme=tokyonight)
